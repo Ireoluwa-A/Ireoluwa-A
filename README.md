@@ -1,5 +1,7 @@
-### Hi there, I'm Ire.👋
-### I like building stuff and working on projects
+- Hi there, I'm Ire. 👋
+- I like building stuff for the internet and working on projects 🧱
+- Currently improving my knowledge of full-stack development 📚
+- You can reach me at irealarape@gmail.com 📧
 
 
 <!--
